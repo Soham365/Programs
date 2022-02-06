@@ -1,5 +1,5 @@
 # Free Alarm Clock
-Free Alarm Clock Program.
+Free Alarm Clock App.
 # Version 5.1.0
 # Instructons:
 1.Download the zip. 
