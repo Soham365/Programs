@@ -1,5 +1,5 @@
 # PickPick
-PickPick screenshot program.
+PickPick screenshot App.
 # Version 5.2.1
 # Instructions:
 1.Download the zip.
