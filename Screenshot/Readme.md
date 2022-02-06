@@ -1,2 +1,2 @@
 # Screenshot
-Screenshot programs are listed here.
+Screenshot Apps are listed here.
