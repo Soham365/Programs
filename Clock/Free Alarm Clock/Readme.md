@@ -4,4 +4,4 @@ Free Alarm Clock Program.
 # Instructons:
 1.Download the zip. 
 2. Unzip it. 
-3. 3. Go to the folder and click FreeAlarmClock.exe.
+3. Go to the folder and click FreeAlarmClock.exe.
