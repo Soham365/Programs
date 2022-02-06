@@ -1,4 +1,4 @@
-# PickPick h
+# PickPick
 PickPick screenshot program.
 
 # Instructions:
